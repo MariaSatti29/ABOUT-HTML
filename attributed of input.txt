@@ -1,0 +1,16 @@
+
+
+
+
+        Attrubites of Input:
+		
+			input:
+			 text
+			 number
+			 email
+			 radio
+			 checkbox
+			 submit
+			 hidden
+			 diasbled
+			 required
